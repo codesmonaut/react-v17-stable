@@ -1,6 +1,6 @@
 # React v17 Stable
 
-This folder is a for all developers who want to make Web Apps with React version 17.
+This folder is for all developers who want to make Web Apps with React version 17.
 
 Go to directory and just type this in terminal:
 
